@@ -1,0 +1,27 @@
+---
+title: about
+date: 2023-01-01 05:48:33
+---
+<h1 id="About-me">
+  <a href="#About-me" class="headerlink" title="About me"></a>About me
+</h1>
+<p><img src="/about/twitter_avatar.jpg" alt="Image of Matt Klein" /></p>
+<p>
+  I am a software engineer currently working in the Data industry with an
+  interest at the intersection of modern pipelines with wasm, serverless and
+  kubernetes (think Fluvio and Kubeflow) as well as React on the frontend for
+  apps, even a little Angular for the patterns and some other things. I'm not
+  well known as a creator of anything in particular, mostly a generalist who
+  enjoys talking to people about various things. I'd like to see what's possible
+  with putting everything in WASM modules on the edge as serverless functions
+  and for the rest either orchestrate it with containers or do something else
+  like Hashicorp's system for managing servers of all different types in their
+  app production paradigm. Terraform seems like a pretty standard tool for
+  managing infrastructure declaratively, but I'm also interested in other
+  formats such as Argo gitops and Score.dev, which are abstractions to
+  facilitate IaC. Ultimately, I'd like to work on fun technology and deploy like
+  an SRE. The best way to reach me is on
+  <a target="_blank" rel="noopener" href="https://twitter.com/bronifty"
+    >Twitter</a
+  >.
+</p>

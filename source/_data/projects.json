@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Therapist Eliza",
+    "url": "https://therapist-ai-eliza.vercel.app/",
+    "desc": "A connect web protocol buffer with gRPC POC that talks to a therapist AI named Eliza"
+  },
+  {
+    "name": "React Query Todos",
+    "url": "https://vite-vercel-opal.vercel.app/",
+    "desc": "An adaptation of John Smilga's first Node project with vanilla js"
+  }
+]
